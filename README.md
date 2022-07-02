@@ -37,7 +37,7 @@ You will find images of the implimented design below.
 <li>Animated Styling</li>
 <li>User-friendly and interactive navigation bar</li>
 <li>Google maps location iframe</li>
-<li>Weblink buttons for website navigation and social medai</li>
+<li>Weblink buttons for website navigation and social media</li>
 </ul>
 
 <h2>Built Using</h2>
