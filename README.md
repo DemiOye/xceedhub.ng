@@ -19,7 +19,7 @@ The back end, which soley involves form submission, was developed with PHP and i
 <a href="https://www.xceedhub.ng/">xceedhub.ng</a> uses a responsive bootstrap format and animation style css upon page load.
 Web content such as text and images have been detailed to align with the webpage format on any given screen size, whilst maintaining the structure
 of the implemented format design. The layout for the landing page includes sections for Introduction, Services, Prices, Gallery and Contact.<br>
-You will find images of the implimented design in the links below.
+You will find images of the implimented design below.
 
 <h3>Images</h3>
 
