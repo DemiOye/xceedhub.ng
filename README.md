@@ -27,7 +27,8 @@ You will find images of the implimented design below.
 ![chrome_screenshot_1656752612313](https://user-images.githubusercontent.com/59454243/176995222-a7e8fea7-55e8-45d0-adaa-4d4b5d57d202.png)
 ![chrome_screenshot_1656711813976](https://user-images.githubusercontent.com/59454243/176995294-8606df81-6f34-48ef-8467-c1620db6d907.png)
 ![chrome_screenshot_1656711942872](https://user-images.githubusercontent.com/59454243/176995337-923a5dc6-cdf5-4665-abb7-020bc743adaa.png)
-![chrome_screenshot_1656712379002](https://user-images.githubusercontent.com/59454243/176995348-dd9bf73e-a26b-4d8a-a028-3d564ad0d12f.png)
+![chrome_screenshot_1656712379002](https://user-images.githubusercontent.com/59454243/177088204-468ad5df-0df6-4aaa-a2ce-00aca35f079f.png)
+
 
 <h2>Features</h2>
 <a href="https://www.xceedhub.ng/">xceedhub.ng</a> includes the following features;
